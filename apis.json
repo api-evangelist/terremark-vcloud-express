@@ -1,0 +1,61 @@
+{
+    "name": "Terremark vCloud Express",
+    "description": "Verizon Enterprise technology solutions innovate how you do   business with industry leading cloud services, mobility   solutions, security, other managed IT solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/496-terremark-vcloud-express.jpg",
+    "tags": [
+        "cloud",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/terremark-vcloud-express\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Terremark vCloud Express",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/496-terremark-vcloud-express.jpg",
+            "humanURL": "http:\/\/vcloudexpress.terremark.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/terremark-vcloud-express-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/terremark.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/verizon-enterprise-solutions"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/terremark-worldwide"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/vcloudexpress.terremark.com\/api.aspx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VZEnterprise"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/http:\/\/www.tendrilinc.com\/about-us\/news-room\/blog\/feed"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/vcloudexpress.terremark.com\/"
+        }
+    ]
+}
